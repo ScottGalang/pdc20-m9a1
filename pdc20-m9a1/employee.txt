@@ -1,0 +1,1 @@
+[{"id":1,"name":"Scott Galang","age":2,"salary":10000},{"id":2,"name":"Nathaniel Allapitan","age":21,"salary":15000}]
